@@ -66,4 +66,15 @@ h2
 footer
 {
     text-align: center;
+    text-decoration: none;
+    
+}
+a
+{
+    text-decoration: none;
+}
+footer:hover
+{
+    transition: 2s;
+    transform: scale(1.2);
 }
